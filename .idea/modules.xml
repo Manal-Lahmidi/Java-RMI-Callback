@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_RMI_Callback.iml" filepath="$PROJECT_DIR$/.idea/Java_RMI_Callback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI_Callback_Client/RMI_Callback_Client.iml" filepath="$PROJECT_DIR$/RMI_Callback_Client/RMI_Callback_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI_Callback_Server/RMI_Callback_Server.iml" filepath="$PROJECT_DIR$/RMI_Callback_Server/RMI_Callback_Server.iml" />
+    </modules>
+  </component>
+</project>
